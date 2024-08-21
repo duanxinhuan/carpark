@@ -27,7 +27,7 @@ Before you begin, ensure you have the following installed:
 To get the code locally, clone the repository:
 
 ```bash
-git clone https://github.com/your-username/parking-rate-calculator.git
+git clone https://github.com/duanxinhuan/carpark.git
 ```
 
 ### Building the Projectct
