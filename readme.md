@@ -30,7 +30,7 @@ To get the code locally, clone the repository:
 git clone https://github.com/duanxinhuan/carpark.git
 ```
 
-### Building the Projectct
+### Building the Project
 ```bash
 cd ParkingRateCalculator
 dotnet build
